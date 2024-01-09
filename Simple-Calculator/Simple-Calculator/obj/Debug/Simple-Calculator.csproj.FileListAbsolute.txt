@@ -1,0 +1,7 @@
+F:\Learning\cSharp\cSharp-basics\Simple-Calculator\Simple-Calculator\bin\Debug\Simple-Calculator.exe.config
+F:\Learning\cSharp\cSharp-basics\Simple-Calculator\Simple-Calculator\bin\Debug\Simple-Calculator.exe
+F:\Learning\cSharp\cSharp-basics\Simple-Calculator\Simple-Calculator\bin\Debug\Simple-Calculator.pdb
+F:\Learning\cSharp\cSharp-basics\Simple-Calculator\Simple-Calculator\obj\Debug\Simple-Calculator.csproj.AssemblyReference.cache
+F:\Learning\cSharp\cSharp-basics\Simple-Calculator\Simple-Calculator\obj\Debug\Simple-Calculator.csproj.CoreCompileInputs.cache
+F:\Learning\cSharp\cSharp-basics\Simple-Calculator\Simple-Calculator\obj\Debug\Simple-Calculator.exe
+F:\Learning\cSharp\cSharp-basics\Simple-Calculator\Simple-Calculator\obj\Debug\Simple-Calculator.pdb
