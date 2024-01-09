@@ -1,0 +1,7 @@
+F:\Learning\cSharp\cSharp-basics\Mad-Lib\Mad-Lib\bin\Debug\Mad-Lib.exe.config
+F:\Learning\cSharp\cSharp-basics\Mad-Lib\Mad-Lib\bin\Debug\Mad-Lib.exe
+F:\Learning\cSharp\cSharp-basics\Mad-Lib\Mad-Lib\bin\Debug\Mad-Lib.pdb
+F:\Learning\cSharp\cSharp-basics\Mad-Lib\Mad-Lib\obj\Debug\Mad-Lib.csproj.AssemblyReference.cache
+F:\Learning\cSharp\cSharp-basics\Mad-Lib\Mad-Lib\obj\Debug\Mad-Lib.csproj.CoreCompileInputs.cache
+F:\Learning\cSharp\cSharp-basics\Mad-Lib\Mad-Lib\obj\Debug\Mad-Lib.exe
+F:\Learning\cSharp\cSharp-basics\Mad-Lib\Mad-Lib\obj\Debug\Mad-Lib.pdb
