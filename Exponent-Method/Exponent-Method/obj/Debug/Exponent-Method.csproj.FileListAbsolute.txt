@@ -1,0 +1,7 @@
+F:\Learning\cSharp\cSharp-basics\Exponent-Method\Exponent-Method\bin\Debug\Exponent-Method.exe.config
+F:\Learning\cSharp\cSharp-basics\Exponent-Method\Exponent-Method\bin\Debug\Exponent-Method.exe
+F:\Learning\cSharp\cSharp-basics\Exponent-Method\Exponent-Method\bin\Debug\Exponent-Method.pdb
+F:\Learning\cSharp\cSharp-basics\Exponent-Method\Exponent-Method\obj\Debug\Exponent-Method.csproj.AssemblyReference.cache
+F:\Learning\cSharp\cSharp-basics\Exponent-Method\Exponent-Method\obj\Debug\Exponent-Method.csproj.CoreCompileInputs.cache
+F:\Learning\cSharp\cSharp-basics\Exponent-Method\Exponent-Method\obj\Debug\Exponent-Method.exe
+F:\Learning\cSharp\cSharp-basics\Exponent-Method\Exponent-Method\obj\Debug\Exponent-Method.pdb
