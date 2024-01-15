@@ -1,0 +1,10 @@
+F:\Learning\cSharp\cSharp-basics\ExeptionDemo\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+F:\Learning\cSharp\cSharp-basics\ExeptionDemo\ConsoleUI\bin\Debug\ConsoleUI.exe
+F:\Learning\cSharp\cSharp-basics\ExeptionDemo\ConsoleUI\bin\Debug\ConsoleUI.pdb
+F:\Learning\cSharp\cSharp-basics\ExeptionDemo\ConsoleUI\bin\Debug\ExeptionsLibrary.dll
+F:\Learning\cSharp\cSharp-basics\ExeptionDemo\ConsoleUI\bin\Debug\ExeptionsLibrary.pdb
+F:\Learning\cSharp\cSharp-basics\ExeptionDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+F:\Learning\cSharp\cSharp-basics\ExeptionDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+F:\Learning\cSharp\cSharp-basics\ExeptionDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+F:\Learning\cSharp\cSharp-basics\ExeptionDemo\ConsoleUI\obj\Debug\ConsoleUI.exe
+F:\Learning\cSharp\cSharp-basics\ExeptionDemo\ConsoleUI\obj\Debug\ConsoleUI.pdb

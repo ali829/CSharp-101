@@ -1,0 +1,6 @@
+F:\Learning\cSharp\cSharp-basics\ExeptionDemo\ExeptionsLibrary\bin\Debug\ExeptionsLibrary.dll
+F:\Learning\cSharp\cSharp-basics\ExeptionDemo\ExeptionsLibrary\bin\Debug\ExeptionsLibrary.pdb
+F:\Learning\cSharp\cSharp-basics\ExeptionDemo\ExeptionsLibrary\obj\Debug\ExeptionsLibrary.csproj.AssemblyReference.cache
+F:\Learning\cSharp\cSharp-basics\ExeptionDemo\ExeptionsLibrary\obj\Debug\ExeptionsLibrary.csproj.CoreCompileInputs.cache
+F:\Learning\cSharp\cSharp-basics\ExeptionDemo\ExeptionsLibrary\obj\Debug\ExeptionsLibrary.dll
+F:\Learning\cSharp\cSharp-basics\ExeptionDemo\ExeptionsLibrary\obj\Debug\ExeptionsLibrary.pdb
