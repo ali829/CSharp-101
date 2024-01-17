@@ -1,0 +1,7 @@
+F:\Learning\cSharp\cSharp-basics\reference-value-types\reference-value-types\bin\Debug\reference-value-types.exe.config
+F:\Learning\cSharp\cSharp-basics\reference-value-types\reference-value-types\bin\Debug\reference-value-types.exe
+F:\Learning\cSharp\cSharp-basics\reference-value-types\reference-value-types\bin\Debug\reference-value-types.pdb
+F:\Learning\cSharp\cSharp-basics\reference-value-types\reference-value-types\obj\Debug\reference-value-types.csproj.AssemblyReference.cache
+F:\Learning\cSharp\cSharp-basics\reference-value-types\reference-value-types\obj\Debug\reference-value-types.csproj.CoreCompileInputs.cache
+F:\Learning\cSharp\cSharp-basics\reference-value-types\reference-value-types\obj\Debug\reference-value-types.exe
+F:\Learning\cSharp\cSharp-basics\reference-value-types\reference-value-types\obj\Debug\reference-value-types.pdb
